@@ -5,6 +5,7 @@
         <p>{{ message }}</p>
     </div>
 </template>
+
 <script>
 import ContactForm from "@/components/ContactForm.vue";
 import ContactService from "@/services/contact.service";
